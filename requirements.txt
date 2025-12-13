@@ -5,3 +5,4 @@ json
 os
 time
 streamlit lottie
+pandas
