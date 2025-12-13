@@ -4,5 +4,6 @@ datetime
 json
 os
 time
-streamlit lottie
+streamlit-lottie
 pandas
+
