@@ -1,3 +1,7 @@
 streamlit
 ollama
 datetime
+json
+os
+time
+streamlit lottie
